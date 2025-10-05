@@ -1,2 +1,2 @@
 # Subjects
-It will contain all the subject related mterials 
+This will contain all the important materials related to the subject 
